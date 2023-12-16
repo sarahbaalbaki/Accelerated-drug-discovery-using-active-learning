@@ -1,1 +1,1 @@
-# Accelerated-drug-discovery-using-active-learning
+# Accelerated Drug Discovery using Active Learning
